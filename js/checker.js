@@ -23,108 +23,108 @@ function change_img(){
     switch(name_getter2){
 
         case "asher":
-            image1.src = "../img/4-2-3-1/asher1.jpg";
-            image2.src = "../img/5-3-2/asher2.jpg";
+            image1.src = "./img/form1/asher1.jpg";
+            image2.src = "./img/form2/asher2.jpg";
             break;
 
         case "aziz":
-            image1.src = "../img/4-2-3-1/aziz1.jpg";
-            image2.src = "../img/5-3-2/aziz2.jpg";
+            image1.src = "./img/form1/aziz1.jpg";
+            image2.src = "./img/form2/aziz2.jpg";
             break;
 
         case "belal":
-            image1.src = "../img/4-2-3-1/belal1.jpg";
-            image2.src = "../img/5-3-2/belal2.jpg";
+            image1.src = "./img/form1/belal1.jpg";
+            image2.src = "./img/form2/belal2.jpg";
             break;
 
         case "brandon":
-            image1.src = "../img/4-2-3-1/brandon1.jpg";
-            image2.src = "../img/5-3-2/brandon2.jpg";
+            image1.src = "./img/form1/brandon1.jpg";
+            image2.src = "./img/form2/brandon2.jpg";
             break;    
 
         case "charly":
-            image1.src = "../img/4-2-3-1/charly1.jpg";
-            image2.src = "../img/5-3-2/charly2.jpg";
+            image1.src = "./img/form1/charly1.jpg";
+            image2.src = "./img/form2/charly2.jpg";
             break;
         
         case "christian":
-            image1.src = "../img/4-2-3-1/kontey1.jpg";
-            image2.src = "../img/5-3-2/kontey2.jpg";
+            image1.src = "./img/form1/kontey1.jpg";
+            image2.src = "./img/form2/kontey2.jpg";
             break;
         
         case "cooper":
-            image1.src = "../img/4-2-3-1/cooperr1.jpg";
-            image2.src = "../img/5-3-2/cooper2.jpg";
+            image1.src = "./img/form1/cooperr1.jpg";
+            image2.src = "./img/form2/cooper2.jpg";
             break;
 
         case "emannuel":
-            image1.src = "../img/4-2-3-1/eman1.jpg";
-            image2.src = "../img/5-3-2/eman2.jpg";
+            image1.src = "./img/form1/eman1.jpg";
+            image2.src = "./img/form2/eman2.jpg";
             break;
 
         case "gabe":
-            image1.src = "../img/4-2-3-1/gabe1.jpg";
-            image2.src = "../img/5-3-2/gabe2.jpg";
+            image1.src = "./img/form1/gabe1.jpg";
+            image2.src = "./img/form2/gabe2.jpg";
             break;
 
         case "jake w":
-            image1.src = "../img/4-2-3-1/jakew1.jpg";
-            image2.src = "../img/5-3-2/jakew2.jpg";
+            image1.src = "./img/form1/jakew1.jpg";
+            image2.src = "./img/form2/jakew2.jpg";
             break;
         
         case "jorge":
-            image1.src = "../img/4-2-3-1/jorge1.jpg";
-            image2.src = "../img/5-3-2/jorge2.jpg";
+            image1.src = "./img/form1/jorge1.jpg";
+            image2.src = "./img/form2/jorge2.jpg";
             break;
 
         case "jumaah":
-            image1.src = "../img/4-2-3-1/jumaah1.jpg";
-            image2.src = "../img/5-3-2/jumaah2.jpg";
+            image1.src = "./img/form1/jumaah1.jpg";
+            image2.src = "./img/form2/jumaah2.jpg";
             break;
 
         case "kaden":
-            image1.src = "../img/4-2-3-1/kaden1.jpg";
-            image2.src = "../img/5-3-2/kaden2.jpg";
+            image1.src = "./img/form1/kaden1.jpg";
+            image2.src = "./img/form2/kaden2.jpg";
             break;
 
         case "kolton":
-            image1.src = "../img/4-2-3-1/kolton1.jpg";
-            image2.src = "../img/5-3-2/kolton2.jpg";
+            image1.src = "./img/form1/kolton1.jpg";
+            image2.src = "./img/form2/kolton2.jpg";
             break;
 
         case "patrick":
-            image1.src = "../img/4-2-3-1/patrick1.jpg";
-            image2.src = "../img/5-3-2/patrick2.jpg";
+            image1.src = "./img/form1/patrick1.jpg";
+            image2.src = "./img/form2/patrick2.jpg";
             break;
 
         case "sergio":
-            image1.src = "../img/4-2-3-1/sergio1.jpg";
-            image2.src = "../img/5-3-2/sergio2.jpg";
+            image1.src = "./img/form1/sergio1.jpg";
+            image2.src = "./img/form2/sergio2.jpg";
             break;
         
         case "tyler":
-            image1.src = "../img/4-2-3-1/tyler1.jpg";
-            image2.src = "../img/5-3-2/tyler2.jpg";
+            image1.src = "./img/form1/tyler1.jpg";
+            image2.src = "./img/form2/tyler2.jpg";
             break;
         
         case "alex":
-            image1.src = "../img/4-2-3-1/alex1.jpg";
-            image2.src = "../img/5-3-2/alex2.jpg";
+            image1.src = "./img/form1/alex1.jpg";
+            image2.src = "./img/form2/alex2.jpg";
             break;
         
         case "jesus":
-            image1.src = "../img/4-2-3-1/jesus1.jpg";
-            image2.src = "../img/5-3-2/jesus2.jpg";
+            image1.src = "./img/form1/jesus1.jpg";
+            image2.src = "./img/form2/jesus2.jpg";
             break;
 
         case "jake a":
-            image1.src = "../img/4-2-3-1/jakea1.jpg";
-            image2.src = "../img/5-3-2/jakea2.jpg";
+            image1.src = "./img/form1/jakea1.jpg";
+            image2.src = "./img/form2/jakea2.jpg";
             break;
 
         case "james":
-            image1.src = "../img/4-2-3-1/james1.jpg";
-            image2.src = "../img/5-3-2/james2.jpg";
+            image1.src = "./img/form1/james1.jpg";
+            image2.src = "./img/form2/james2.jpg";
             break;
 
         default:
@@ -134,8 +134,8 @@ function change_img(){
 
 //Function to reset image
 function reset_img(){
-    image1.src = "../img/4-2-3-1.jpg";
-    image2.src = "../img/5-3-2.jpg";
+    image1.src = "./img/4-2-3-1.jpg";
+    image2.src = "./img/5-3-2.jpg";
 }
 
 
