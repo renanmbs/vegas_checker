@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./css/stylesheet.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Voces&display=swap" rel="stylesheet">
+    <title>WSU Black Vegas Checker</title>
+</head>
+<body>
+    <header>
+        <h1>WSU Vegas Checker</h1>
+        <h2>Find out if you are part of the Vegas traveling squad</h2>
+        <h3>November 3<sup>rd</sup>
+            - 7<sup>th</sup> 
+            2022</h3>
+    </header>
+    
+    
+    <h4>Formations</h4>
+    <section class="form">
+        <figure class="img1">
+            <img id="image1" src="./img/4-2-3-1.jpg" alt="4-2-3-1 Formation">
+            <figcaption>4-2-3-1 Formation</figcaption>
+        </figure>
+
+        <figure class="img2">
+            <img id="image2" src="./img/5-3-2.jpg" alt="5-3-2 Formation">
+            <figcaption>5-3-2 Formation</figcaption>
+
+            <form action="post" id="myForm">
+                <input type="text" id="title">
+                <input type="submit" value="Click To Update">
+             </form>
+             
+             <h2 id="result"></h2>
+        </figure>
+    </section>
+
+    <button id="but">Check for your name</button>
+
+    <form id="show">
+
+        <label for="name">Name</label><br>
+
+        <input id="name" name="name" type="text" required><br>
+        <input name="submit" id="submit" type="submit">
+
+        <article class="cont">
+            <section>
+                <h3>Result</h3>
+                <p id="res"></p>
+                <p id="cong"></p>
+                <p id="extra"></p>
+            </section>
+        </article>
+    </form>
+</body>
+
+</html>
+
+<script src="./js/checker.js"></script>
