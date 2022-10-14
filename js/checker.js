@@ -53,7 +53,7 @@ function change_img(){
             break;
         
         case "cooper":
-            image1.src = "./img/form1/cooperr1.jpg";
+            image1.src = "./img/form1/cooper1.jpg";
             image2.src = "./img/form2/cooper2.jpg";
             break;
 
