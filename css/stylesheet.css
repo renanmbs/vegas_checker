@@ -152,6 +152,39 @@ form section{
     text-transform: uppercase;
 }
 
+@media screen and (max-width: 1023px) {
+
+    h1{
+        font-size: 1.5rem;
+    }
+
+    h2{
+        font-size: small;
+    }
+
+    h3{
+        font-size: small;
+    }
+
+    img{
+        border: solid 2px #98730C;
+        filter: drop-shadow(0px 0px 2px white);
+        margin: 1% auto;
+        height: 200px;
+        width: 195px;
+    }
+
+    form section{
+        filter: drop-shadow(0px 2px 2px black);
+    }
+
+    #submit{
+        filter: drop-shadow(0px 1px 3px black);
+    }
+
+
+
+}
 
 
 
