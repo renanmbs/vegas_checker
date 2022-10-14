@@ -127,9 +127,14 @@ function change_img(){
             image2.src = "./img/form2/james2.jpg";
             break;
 
-         case "riley":
+        case "riley":
             image1.src = "./img/form1/riley1.jpg";
             image2.src = "./img/form2/riley2.jpg";
+            break;
+
+        case "ethan":
+            image1.src = "./img/form1/ethan1.jpg";
+            image2.src = "./img/form2/ethan2.jpg";
             break;
 
         default:
@@ -219,7 +224,7 @@ function check_name(){
 
 //Going
 let going = ["asher","aziz", "belal", "brandon", "charly", "christian", "cooper", "eman", "gabe", "jake w", "jorge", "jumaah",
-"kaden", "kolton", "patrick", "sergio", "tyler", "alex", "riley"];
+"kaden", "kolton", "patrick", "sergio", "tyler", "alex", "riley", "etham"];
 
 //Not going
 let not = ["augustin", "bernardo", "luis", "luis a", "luis c", "santiago", "teegan", "will"];
