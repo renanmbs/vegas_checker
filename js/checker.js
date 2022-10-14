@@ -224,7 +224,7 @@ function check_name(){
 
 //Going
 let going = ["asher","aziz", "belal", "brandon", "charly", "christian", "cooper", "eman", "gabe", "jake w", "jorge", "jumaah",
-"kaden", "kolton", "patrick", "sergio", "tyler", "alex", "riley", "etham"];
+"kaden", "kolton", "patrick", "sergio", "tyler", "alex", "riley", "ethan"];
 
 //Not going
 let not = ["augustin", "bernardo", "luis", "luis a", "luis c", "santiago", "teegan", "will"];
