@@ -137,6 +137,11 @@ function change_img(){
             image2.src = "./img/form2/ethan2.jpg";
             break;
 
+        case "thaddeus":
+            image1.src = "./img/form1/thaddeus1.jpg";
+            image2.src = "./img/form2/thaddeus2.jpg";
+            break;
+
         default:
             reset_img();
     }
