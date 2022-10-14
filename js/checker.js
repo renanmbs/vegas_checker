@@ -57,7 +57,7 @@ function change_img(){
             image2.src = "./img/form2/cooper2.jpg";
             break;
 
-        case "emannuel":
+        case "eman":
             image1.src = "./img/form1/eman1.jpg";
             image2.src = "./img/form2/eman2.jpg";
             break;
@@ -218,7 +218,7 @@ function check_name(){
 /*Arrays of players*/
 
 //Going
-let going = ["asher","aziz", "belal", "brandon", "charly", "christian", "cooper", "emannuel", "gabe", "jake w", "jorge", "jumaah",
+let going = ["asher","aziz", "belal", "brandon", "charly", "christian", "cooper", "eman", "gabe", "jake w", "jorge", "jumaah",
 "kaden", "kolton", "patrick", "sergio", "tyler", "alex", "riley"];
 
 //Not going
